@@ -1,2 +1,3 @@
 # Blog-Template
-A simple blog template
+A simple responsive blog template.
+
